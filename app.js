@@ -20,9 +20,10 @@ const readline = require('readline').createInterface({
   }
 
   readline.question(`Digite uma propriedade de CSS: `, pergunta)
+
+  //ok
   
 
  
     
-
 
